@@ -7,4 +7,4 @@ For D-H Keys
 
 • 创建Word/PDF文档记录计算过程。
 
-PS：D-H.py是计算用代码，可在python 3.11 下运行。
+PS：D-H.py是计算用代码，可在python 3.11下运行。
